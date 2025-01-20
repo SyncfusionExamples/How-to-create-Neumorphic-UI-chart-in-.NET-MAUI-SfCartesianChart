@@ -1,5 +1,5 @@
 # How-to-create-Neumorphic-UI-chart-in-.NET-MAUI-SfCartesianChart
-This article explains how to create a visually stunning Neumorphic UI chart using Syncfusion .NET MAUI Column Chart (SfCartesianChart).
+This article explains how to create a visually stunning Neumorphic UI chart using [Syncfusion .NET MAUI Column Chart](https://help.syncfusion.com/maui/cartesian-charts/column) ([SfCartesianChart](https://help.syncfusion.com/maui/cartesian-charts/getting-started)).
 
 ## Overview
 Neumorphism is a design trend that simulates a 3D effect using light and shadow to give UI components a sense of depth and realism, while still maintaining a minimalist and clean aesthetic.
