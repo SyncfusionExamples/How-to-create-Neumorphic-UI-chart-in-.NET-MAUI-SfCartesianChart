@@ -8,6 +8,8 @@ While visually appealing, Neumorphic UI should be implemented thoughtfully to av
 
 This sample showcases implementing a Neumorphic design in a .NET MAUI application to enhance the visual appeal of an SfCartesianChart.
 
+![Sample output screenshot of SfCartesianChart with Neumorphic UI](https://github.com/user-attachments/assets/48375be0-ebc4-4b6c-8bc6-20b0425e0483)
+
 For more details on the step - by - step procedure into the creation of Neumorphism UI chart, which ensures a seamless integration of design and data representation within our application, refer to the KB on [how to create a Neumorphic UI chart (SfCartesianChart) in .NET MAUI.](https://support.syncfusion.com/kb/article/15491/how-to-create-the-neumorphic-ui-chart-using-net-maui-chart-sfcartesianchart)
 
 ## Troubleshooting
